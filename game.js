@@ -1,0 +1,1 @@
+exports.bank = ["The Tenth Justice", "Dead Even", "The First Counsel", "The Millionaires", "The Zero Game", "The Book of Fate", "The Booke of Lies", "The Inner Circle", "The Fifth Assassin", "The Presiden'ts Shadow", "The House of Secrets"]
